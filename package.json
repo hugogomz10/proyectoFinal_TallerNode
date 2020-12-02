@@ -1,0 +1,28 @@
+{
+  "name": "proyectofinal_tallernode",
+  "version": "1.0.0",
+  "description": "Proyecto final para el taller NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasBautista/proyectoFinal_TallerNode.git"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "nodejs",
+    "express"
+  ],
+  "author": "Elias Bautista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasBautista/proyectoFinal_TallerNode/issues"
+  },
+  "homepage": "https://github.com/EliasBautista/proyectoFinal_TallerNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
